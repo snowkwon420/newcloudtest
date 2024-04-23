@@ -1,8 +1,10 @@
+import { Main } from './Main';
+
 function App() {
   return (
-    <div>
-      hello world
-    </div>
+    <>
+      <Main />
+    </>
   );
 }
 export default App;
